@@ -2,11 +2,11 @@
   {
     "kernelName": "astera",
     "kernelSource": {
-      "device": "begonia",
-      "defconfig": "begonia_user_defconfig",
+      "device": "crux",
+      "defconfig": "crux_defconfig",
       "name": "Astera-Non-Patches",
-      "repo": "https://github.com/xiaomi-begonia-dev/android_kernel_xiaomi_mt6785",
-      "branch": "fifteen"
+      "repo": "https://github.com/jzc233/android_kernel_xiaomi_crux",
+      "branch": "crux"
     },
     "withRoot": "none",
     "withSUSFS": false,
@@ -51,11 +51,11 @@
   {
     "kernelName": "astera",
     "kernelSource": {
-      "device": "begonia",
-      "defconfig": "begonia_user_defconfig",
+      "device": "crux",
+      "defconfig": "crux_defconfig",
       "name": "Astera-RKSU-SUSFS",
-      "repo": "https://github.com/xiaomi-begonia-dev/android_kernel_xiaomi_mt6785",
-      "branch": "fifteen"
+      "repo": "https://github.com/jzc233/android_kernel_xiaomi_crux",
+      "branch": "crux"
     },
     "withRoot": "rksu",
     "withSUSFS": true,
@@ -100,11 +100,11 @@
   {
     "kernelName": "astera",
     "kernelSource": {
-      "device": "begonia",
-      "defconfig": "begonia_user_defconfig",
+      "device": "crux",
+      "defconfig": "crux_defconfig",
       "name": "Astera-MKSU-SUSFS",
-      "repo": "https://github.com/xiaomi-begonia-dev/android_kernel_xiaomi_mt6785",
-      "branch": "fifteen"
+      "repo": "https://github.com/jzc233/android_kernel_xiaomi_crux",
+      "branch": "crux"
     },
     "withRoot": "mksu",
     "withSUSFS": true,
@@ -149,11 +149,11 @@
   {
     "kernelName": "astera",
     "kernelSource": {
-      "device": "begonia",
-      "defconfig": "begonia_user_defconfig",
+      "device": "crux",
+      "defconfig": "crux_defconfig",
       "name": "Astera-SukiSU-SUSFS",
-      "repo": "https://github.com/xiaomi-begonia-dev/android_kernel_xiaomi_mt6785",
-      "branch": "fifteen"
+      "repo": "https://github.com/jzc233/android_kernel_xiaomi_crux",
+      "branch": "crux"
     },
     "withRoot": "sukisu",
     "withSUSFS": true,
@@ -199,10 +199,10 @@
     "kernelName": "astera",
     "kernelSource": {
       "device": "begonia",
-      "defconfig": "begonia_user_defconfig",
+      "defconfig": "crux_defconfig",
       "name": "Astera-KSU-Next-SUSFS",
-      "repo": "https://github.com/xiaomi-begonia-dev/android_kernel_xiaomi_mt6785",
-      "branch": "fifteen"
+      "repo": "https://github.com/jzc233/android_kernel_xiaomi_crux",
+      "branch": "crux"
     },
     "withRoot": "ksun",
     "withSUSFS": true,
